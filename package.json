@@ -1,0 +1,15 @@
+{
+  "name": "weatherjs",
+  "version": "1.0.0",
+  "description": "Webapp to find weather of a city",
+  "main": "app.js",
+  "scripts": {
+    "diploy": "gh-pages -d dist"
+  },
+  "author": "Neetesh Kaushik",
+  "license": "ISC",
+  "homepage": "https://neeteshkaushik.github.io/weather",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
